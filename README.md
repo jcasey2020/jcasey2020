@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python data analytics
 - 🌱 I’m currently learning about ML models
 - 📫 How to reach me: jcasey@scu.edu
-![Visitor Count](https://profile-counter.glitch.me/jcasey2020/count.svg)
+- Github stats: ![Visitor Count](https://profile-counter.glitch.me/jcasey2020/count.svg)
 
 <!--
 **jcasey2020/jcasey2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
